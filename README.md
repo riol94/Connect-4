@@ -1,1 +1,1 @@
-# Collect-4
+# Connect-4
